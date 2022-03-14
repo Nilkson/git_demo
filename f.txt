@@ -3,3 +3,4 @@ Tätä tekstiä ei ole paikallisessa työhakemistossa
 =======
 Tätä tekstiä ei ole GitHubissa
 >>>>>>> Stashed changes
+Lisäsin tämän paikallisessa työhakemistossa
